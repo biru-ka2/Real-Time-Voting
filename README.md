@@ -42,7 +42,7 @@ During live webinars, classrooms, or interactive sessions, important questions o
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mahesararslan/Live-Q-A-with-Real-Time-Voting.git
+   git clone https://github.com/biru-ka2/Real-Time-Voting.git
    cd Live-Q-A-with-Real-Time-Voting
    ```
 
@@ -69,7 +69,7 @@ During live webinars, classrooms, or interactive sessions, important questions o
 
 1. **Clone and setup environment**
    ```bash
-   git clone https://github.com/mahesararslan/Live-Q-A-with-Real-Time-Voting.git
+   git clone https://github.com/biru-ka2/Real-Time-Voting.git
    cd Live-Q-A-with-Real-Time-Voting
    
    # Setup backend environment
@@ -140,4 +140,4 @@ If using Redis Cloud instead of local Redis:
 
 ---
 
-Built with ❤️ by [Arslan Mahesar](https://github.com/mahesararslan)
+Built with ❤️ by [Biruk Worku](https://github.com/biru-ka2/Real-Time-Voting.git)
